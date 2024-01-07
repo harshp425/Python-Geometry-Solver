@@ -4,7 +4,7 @@ import json
 
 class Solver():
     """This is the main class that the program uses in order to compute the different calculations.
-    Each method of thsi solver class corresponds to a different geometric calculations and as a result
+    Each method of this solver class corresponds to a different geometric calculation and as a result
     takes in different parameters. Each method, returns the corresponding calculated value."""
 
     def area_of_square(l):
@@ -86,8 +86,8 @@ class Solver():
     
     def pythagorean_sides(a, b, c):
         """
-        This method calculates the length of the third side of a right triangle given the lenths of the 
-        two other sides using the pythagorean theorem. 
+        This method calculates the length of the third side of a right triangle given the lengths of the 
+        two other sides using the Pythagorean Theorem. 
         :param a,b,c: two of these variables are the lengths of two sides of the right triangle
         and the third is a string "?" which signifies the side that needs to be calculated
         :ptype: float or string
@@ -154,7 +154,7 @@ class Solver():
 
 """
 This is the main function that gets called when the code is first run. It sets a local variabel 'running'
-to true which ensures the program can run until it is manually terminated through the terminal. Upon starting
+to true which ensures the program can run until it is manually terminated through the terminal. Upon starting,
 this function displays a range of options for the user to choose from. Once an option is chosen, the corresponding
 conditional block is triggered. After taking in the parameters as inputs, the conditional blocks call on the 
 methods of the Solver class to make the calculations which are then displayed into the terminal. 
