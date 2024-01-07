@@ -4,7 +4,7 @@ This is an interactive python program that allows users to solve select geometry
 
 
 ## Uses
-The program offers solutions for a variety of geometry problems detailed in the image below...
+The program offers solutions to a variety of geometry problems detailed in the image below...
 
 <img width="825" alt="Screenshot 2024-01-07 at 5 05 31 PM" src="https://github.com/harshp425/Python-Geomtry-Solver/assets/126726290/94b16c4c-62ad-4d8d-a419-5e2fec5356c2">
 
