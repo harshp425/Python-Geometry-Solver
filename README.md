@@ -1,4 +1,4 @@
-# Python Geomtry Solver
+# Python Geometry Solver
 
 This is an interactive python program that allows users to solve select geometry problems in seconds. Thr program is written completely in python and leverages the Math library, classes, and control structures such as while loops and conditional statements. 
 
